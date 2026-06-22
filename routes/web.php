@@ -1,8 +1,8 @@
 <?php
 
-use App\Http\Controllers\Admin\BlogCategoryController;
-use App\Http\Controllers\Admin\BlogController;
-use App\Http\Controllers\Admin\SeoController;
+use Digitechbranz\BlogManager\Http\Controllers\Admin\BlogController;
+use Digitechbranz\BlogManager\Http\Controllers\Admin\BlogCategoryController;
+use Digitechbranz\BlogManager\Http\Controllers\Admin\SeoController;
 use Illuminate\Support\Facades\Route;
 
 
