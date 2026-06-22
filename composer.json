@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Mycompany\\BlogManager\\": "src/"
+            "Digitechbranz\\BlogManager\\": "src/"
         }
     },
     "require": {
@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Mycompany\\BlogManager\\BlogManagerServiceProvider"
+                "Digitechbranz\\BlogManager\\BlogManagerServiceProvider"
             ]
         }
     },
