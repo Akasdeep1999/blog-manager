@@ -1,9 +1,9 @@
 <?php
 
-namespace Mycompany\BlogManager\Http\Controllers\Admin;
+namespace Digitechbranz\BlogManager\Http\Controllers\Admin;
 
 use Illuminate\Routing\Controller;
-use Mycompany\BlogManager\Models\BlogCategory;
+use Digitechbranz\BlogManager\Models\BlogCategory;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
 
