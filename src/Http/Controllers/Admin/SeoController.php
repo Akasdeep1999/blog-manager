@@ -1,9 +1,9 @@
 <?php
 
-namespace Mycompany\BlogManager\Http\Controllers\Admin;
+namespace Digitechbranz\BlogManager\Http\Controllers\Admin;
 
 use Illuminate\Routing\Controller;
-use Mycompany\BlogManager\Models\Seo;
+use Digitechbranz\BlogManager\Models\Seo;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
