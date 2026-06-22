@@ -1,6 +1,6 @@
 <?php
 
-namespace Mycompany\BlogManager;
+namespace Digitechbranz\BlogManager;
 
 use Illuminate\Support\ServiceProvider;
 
