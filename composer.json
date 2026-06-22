@@ -1,0 +1,30 @@
+{
+    "name": "mycompany/blog-manager",
+    "description": "Laravel Blog and SEO package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akasdeep1999",
+            "email": "akashb.dbt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mycompany\\BlogManager\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^12.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mycompany\\BlogManager\\BlogManagerServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
